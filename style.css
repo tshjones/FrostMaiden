@@ -1,0 +1,53 @@
+body
+{
+    background-image: url(Aurora2.jpg);
+    background-size: cover;
+}
+
+div
+{
+    margin:0 auto;
+    text-align: center;
+}
+
+
+header
+{
+    color: red;
+    text-align: center;
+    font-size: 5em;
+    
+}
+
+nav
+{
+    color: orangered;
+    text-align: center;
+    font-size: 2em;
+    
+}
+
+td
+{
+    border-color: gold;
+}
+
+table
+{
+    border-collapse: collapse;
+    border-color: gold;
+    width:100%;
+}
+
+section
+{
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1em;
+}
+p
+{
+    text-indent: 3%;
+}
+
