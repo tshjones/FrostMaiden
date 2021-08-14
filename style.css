@@ -1,6 +1,6 @@
 body
 {
-    background-image: url(Aurora2.jpg);
+    background-image: url(parchment.jpg);
     background-size: cover;
 }
 
@@ -13,7 +13,7 @@ div
 
 header
 {
-    color: red;
+    color:darkslateblue;
     text-align: center;
     font-size: 5em;
     
@@ -21,7 +21,7 @@ header
 
 nav
 {
-    color: orangered;
+    color: darkslategray;
     text-align: center;
     font-size: 2em;
     
@@ -29,19 +29,19 @@ nav
 
 td
 {
-    border-color: gold;
+    border-color: darkslateblue;
 }
 
 table
 {
     border-collapse: collapse;
-    border-color: gold;
+    border-color: darkslateblue;
     width:100%;
 }
 
 section
 {
-    color: white;
+    color: black;
     margin-left: 5%;
     margin-right: 5%;
     font-size: 1em;
@@ -50,4 +50,20 @@ p
 {
     text-indent: 3%;
 }
+
+h2
+{
+    color:darkslategray;
+    text-align: center;
+}
+
+img
+{
+    float: left;
+    margin-right: 2%;
+}
+
+
+
+
 
